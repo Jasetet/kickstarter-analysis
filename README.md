@@ -7,7 +7,8 @@ The purpose of this analysis is to help Louise fund her play "Fever". Louise wou
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-To start the analysis all kickstartes were filtered by Theater since Louise is trying to fund a play.  The data was then organized by outcomes, successful, failed, or canceled. The graph below was created using those filters. ![Outcomes based on launch date](https://user-images.githubusercontent.com/94948877/147178743-84b365d4-f6d8-43c2-9574-7b4e7a516c14.png)
+To start the analysis all kickstartes were filtered by Theater since Louise is trying to fund a play.  The data was then organized by outcomes, successful, failed, or canceled. The graph below was created using those filters. ![Outcomes based on launch date](https://user-images.githubusercontent.com/94948877/147180767-51e8cfaf-825f-4156-909d-d3d30aa5b6f6.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
