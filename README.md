@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to help Louise fund her play "Fever". Louise would like to see how well kickstarters work and would like us to narrow it down, so she is not looking at all kickstarters, only the ones that relate to her. We are looking at kickstarters dated from 2009 to 2017 to help Louise figure out when and how to fund her play. 
+The purpose of this analysis is to help Louise fund her play "Fever". Louise would like to see how well kickstarters work and would like us to narrow it down. The data shows all kickstarters in multiple different categories, we need to filter it to only the ones that relate to her. We are looking at kickstarters dated from 2009 to 2017 to help Louise figure out when and how to fund her play. 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
